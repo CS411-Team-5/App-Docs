@@ -1,3 +1,7 @@
+# User Stories (rev. 1)
+
+##
+
 ### Register as a first time user (through social media account):
 
 As a first-time user, I want to be able to login to the app using social media outlets that I’m already connected to. I should be able to login using Facebook or Twitter for convenience - these options should be readily apparent when I first want to register. If I don’t have access to Facebook and Twitter, I want to be able to login through the app itself. For the sake of familiarity, I would prefer this to be a simple username and password field. I’m concerned about my privacy, so the password should not be visible in plain-text, and I would like a re-assurance that my information is not being shared or stored in an insecure fashion. After registration, I would like to begin using the app as soon as possible, beginning with entering my preferences (User Story 2).
